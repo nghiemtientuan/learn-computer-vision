@@ -130,3 +130,6 @@ dmypy.json
 
 .idea
 images/*
+*.DS_Store
+videos/*
+!videos/1.mp4
